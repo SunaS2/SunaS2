@@ -1,8 +1,8 @@
-## <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">안녕하세요! 저는 Suna입니다 <img src="file:///C:/Users/SSAFY/Desktop/Suna/치이카와나뭇잎.gif" title="" alt="alt text" width="50">
+## <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">안녕하세요! 저는 Suna입니다 <img src="file:///C:/Users/SSAFY/Desktop/Suna/치이카와나뭇잎.gif" title="" alt="나뭇잎치이카와" width="50">
 
 ## :palm_tree:저의 코딩 토벌 여정에 오신 것을 환영합니다 :palm_tree:
 
-### 오늘도 영차영차 열심히 알고리즘 토벌 중!! <img src="file:///C:/Users/SSAFY/Desktop/Suna/먼작귀토벌.jpg" title="" alt="alt text" width="50">
+### 오늘도 영차영차 열심히 알고리즘 토벌 중!! <img src="file:///C:/Users/SSAFY/Desktop/Suna/먼작귀토벌.jpg" title="" alt="토벌하치와레" width="50">
 
 ![Suna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunaS2&show_icons=true&theme=dracula)
 
