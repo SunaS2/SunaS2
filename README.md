@@ -5,7 +5,6 @@
 ### 오늘도 영차영차 열심히 알고리즘 토벌 중!! 💦 💦
 
 ![Suna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunaS2&show_icons=true&theme=dracula)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnsghk0227)](https://solved.ac/tnsghk0227/)
 
 ## Skills 🚀
