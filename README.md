@@ -1,4 +1,4 @@
-## <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">안녕하세요! 저는 Suna입니다 🙂
+## 안녕하세요! 저는 Suna입니다 <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">
 
 ## :palm_tree:저의 코딩 토벌 여정에 오신 것을 환영합니다 :palm_tree:
 
