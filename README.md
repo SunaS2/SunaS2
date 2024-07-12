@@ -1,10 +1,8 @@
-
-
-## 안녕하세요! 저는 Suna입니다 :smiley:
+## <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">안녕하세요! 저는 Suna입니다 <img src="file:///C:/Users/SSAFY/Desktop/Suna/치이카와나뭇잎.gif" title="" alt="alt text" width="50">
 
 ## :palm_tree:저의 코딩 토벌 여정에 오신 것을 환영합니다 :palm_tree:
 
-### 🐢 영차영차 💦 알고리즘 토벌중 🏃
+### 오늘도 영차영차 열심히 알고리즘 토벌 중!! <img src="file:///C:/Users/SSAFY/Desktop/Suna/먼작귀토벌.jpg" title="" alt="alt text" width="50">
 
 ![Suna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunaS2&show_icons=true&theme=dracula)
 
@@ -24,4 +22,4 @@
 
 #### 목표: 알고리즘 토벌 열심히 해서! 코딩 랭킹 높이고 맛있는거 사먹기 ♥️
 
-![밥먹는 모몽가](모몽가.gif)
+<img title="" src="모몽가.gif" alt="밥먹는 모몽가" width="401">
