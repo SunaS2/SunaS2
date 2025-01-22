@@ -8,7 +8,7 @@
 ## 안녕하세요! 저는 Suna입니다 <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">
 ### 오늘도 💦 💦 개발 랭킹 1위를 향해 으쌰으쌰! 💦 💦
 ### 🎯 **목표**: 코딩 랭킹 높이고 맛있는거 사먹기 ♥️
-<img title="" src="모몽가.gif" alt="밥먹는 모몽가" width="401">
+<img title="" src="모몽가.gif" alt="밥먹는 모몽가" width="200">
 
 ## Skills 🚀
 
@@ -66,7 +66,7 @@
 </div>
 
 
-
+## 랭킹! 💘
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnsghk0227)](https://solved.ac/tnsghk0227/)
 ![Suna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunaS2&show_icons=true&theme=dracula)
 
