@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=300&section=header&text=Suna's%20Github&fontSize=70)
 
 
-# :palm_tree:코딩 토벌 여정에 오신 것을 환영합니다 :palm_tree:
+# :palm_tree: 저의 개발 토벌 여정에 오신 것을 환영합니다 :palm_tree:
 
 ## 안녕하세요! 저는 Suna입니다 <img title="" src="치이카와사탕.gif" alt="사탕 먹는 치이카와" width="50">
-### 오늘도 영차영차 열심히 프로그래밍 토벌 중!! 💦 💦
+### 오늘도 💦 💦 개발 랭킹 1위를 향해 으쌰으쌰! 💦 💦
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnsghk0227)](https://solved.ac/tnsghk0227/)
 ![Suna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunaS2&show_icons=true&theme=dracula)
@@ -43,7 +43,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GiHubt&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-#### 목표: 알고리즘 토벌 열심히 해서! 코딩 랭킹 높이고 맛있는거 사먹기 ♥️
+## 목표
+### 알고리즘 토벌 열심히 해서! 코딩 랭킹 높이고 맛있는거 사먹기 ♥️
 
 <img title="" src="모몽가.gif" alt="밥먹는 모몽가" width="401">
 
