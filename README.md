@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=Suna's%GitHub&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=300&section=header&text=Suna's%20Github&fontSize=70)
+
 
 # :palm_tree:코딩 토벌 여정에 오신 것을 환영합니다 :palm_tree:
 
