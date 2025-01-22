@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=300&section=header&text=Suna's%20Github&fontSize=70)
 
 
@@ -44,3 +46,5 @@
 #### 목표: 알고리즘 토벌 열심히 해서! 코딩 랭킹 높이고 맛있는거 사먹기 ♥️
 
 <img title="" src="모몽가.gif" alt="밥먹는 모몽가" width="401">
+
+</div>
