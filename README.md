@@ -13,48 +13,57 @@
 
 ## Skills 🚀
 
----
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
 
-### 💻 **Languages**
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python">
-    <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-</div>
+  <!-- Languages -->
+  <div>
+    <h3>💻 Languages</h3>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python">
+      <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+    </div>
+  </div>
 
----
+  <!-- Front-End -->
+  <div>
+    <h3>🌿 Front-End</h3>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+    </div>
+  </div>
 
-### 🌿 **Front-End**
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-</div>
+  <!-- Back-End -->
+  <div>
+    <h3>🌱 Back-End</h3>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    </div>
+  </div>
 
----
+  <!-- Design -->
+  <div>
+    <h3>🎨 Design</h3>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </div>
+  </div>
 
-### 🌱 **Back-End**
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-</div>
+  <!-- Tools -->
+  <div>
+    <h3>🛠️ Tools</h3>
+    <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+      <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab">
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+    </div>
+  </div>
 
----
-
-### 🎨 **Design**
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</div>
-
----
-
-### 🛠️ **Tools**
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-    <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
 </div>
 
 
